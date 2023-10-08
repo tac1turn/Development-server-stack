@@ -13,6 +13,11 @@ Ini adalah panduan tentang tools & software apa saja yang perlu di install pada 
 8. Redis (opsional)
 9. PHPMyAdmin (opsional, bisa juga menggunakan GUI Database client seperti DBeaver,dll)
 
-### Tools Pendukung (Optional)
+### Tools Pendukung (Opsional)
 1. Self-hosted [Sentry](https://develop.sentry.dev/self-hosted/) (platform untuk monitoring performance & error pada website/aplikasi)
 2. Gitlab CI (untuk otomasi CI/CD)
+
+## References
+- https://docs.docker.com/
+- https://about.gitlab.com/install/
+- https://docs.gitlab.com/ee/ci/
