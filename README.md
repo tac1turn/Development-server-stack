@@ -14,5 +14,5 @@ Ini adalah panduan tentang tools & software apa saja yang perlu di install pada 
 9. PHPMyAdmin (opsional, bisa juga menggunakan GUI Database client seperti DBeaver,dll)
 
 ### Tools Pendukung (Optional)
-1. [Sentry](https://develop.sentry.dev/self-hosted/) (platform untuk monitoring performance & error pada website/aplikasi)
+1. Self-hosted [Sentry](https://develop.sentry.dev/self-hosted/) (platform untuk monitoring performance & error pada website/aplikasi)
 2. Gitlab CI (untuk otomasi CI/CD)
